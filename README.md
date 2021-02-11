@@ -1,6 +1,6 @@
 # Statistics - Data cleaning using python
 Concept covered: Statictics, Data analysis, Data cleaning, Data extraction and transformation, Python.
-Sem: 5th; Subject: Machine learning;
+Sem: 6th; Subject: Machine learning;
 Name: Sankalp verma
 
 1. Data cleaning is the process of preparing data for analysis by removing or modifying data that is incorrect, incomplete, irrelevant, duplicated, or improperly formatted. 
